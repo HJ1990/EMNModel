@@ -6,3 +6,4 @@ We provide the model files of EMN framework and pretrain model on the UTFR-SBD3 
 Install Python and Pytorch before training.
 
 The testing samples of UTFR-SBD3.
+![image](https://github.com/HJ1990/EMNModel/blob/main/example.png)
