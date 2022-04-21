@@ -1,9 +1,6 @@
 # EMNModel
- Created by Jue Hou at Zhejiang Sci-Tech University.
+Created by Jue Hou at Zhejiang Sci-Tech University.
  
-We provide the model files of EMN framework and pretrain model on the UTFR-SBD3 dataset.
+We provide the model files of EMN framework, pretrain model and testing samples on the UTFR-SBD3 dataset.
 
 Install Python and Pytorch before training.
-
-The testing samples of UTFR-SBD3：
-![image](https://github.com/HJ1990/EMNModel/blob/main/example.png)
